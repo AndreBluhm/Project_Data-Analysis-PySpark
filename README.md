@@ -1,4 +1,4 @@
-# Cleaning and Exploring Big Data using PySpark
+# Project: Cleaning and Exploring Big Data using PySpark
 
 ![Alt Image text](https://github.com/AndreBluhm/Project_DataAnalysis-PySpark/blob/main/Coursera_Cleaning-and-Exploring-Big-Data-using-PySpark.png?raw=true)
 
